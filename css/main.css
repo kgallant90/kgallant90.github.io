@@ -27,7 +27,7 @@ h2 ~ p {
   color: #fff;
   position: fixed;
   width: 100%;
-  z-index: 20
+  z-index: 20;
 }
 .header-logo {
   background-color: #000;
@@ -186,9 +186,8 @@ h2 ~ p {
   color: green;
 }
 
-
-
-/*Altered Values
+/*
+Altered Values
 html, body {
   font-family: helvetica, times, arial, sans;
 }
@@ -199,4 +198,5 @@ html, body {
   font-size: 1.5em;
   margin: -40px 0 1em;
   text-align: center;
-}*/
+}
+*/
