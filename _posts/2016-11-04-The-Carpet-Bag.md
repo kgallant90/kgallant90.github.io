@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The Carpet Bag
+title: The Carpet-Bag
 postHero: /images/shark.jpg
 author: Lee Donahoe
 authorTwitter: https://twitter.com/leedonahoe
 gravatar: https://placekitten.com/g/400/408
-postFooter: Additional information, and maybe a <a href="#">link or two</a>
+postFooter: Click <a href="https://www.softcover.io/read/6070fb03/moby-dick">here</a> to be redirected to the full text of "Moby-Dick".
 ---
 
 I stuffed a shirt *or two* into my old carpet-bag, tucked it under my arm, and started for Cape Horn and the Pacific. Quitting the good city of old Manhatto, I duly arrived in New Bedford. It was a Saturday night in December. Much was I disappointed upon learning that the little packet for Nantucket had already sailed, and that no way of reaching that place would offer, till the following Monday.
