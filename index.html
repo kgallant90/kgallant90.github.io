@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="home">
+
   <div class="full-hero hero-home">
     <div class="hero-content">
       <h1>CODE DANGEROUSLY</h1>
@@ -65,11 +66,10 @@ layout: default
           <a href="{{ site.posts.first.authorTwitter }}"
           class="social-link">Tw</a>
           by: {{ site.posts.first.author }}
-          <span> - {{ site.posts.first.date | date: '%B %d, %Y' }}</span>
+          <span> - {{ site.posts.first.date | date: '%B 5d, %Y' }}</span>
         </div>
       </header>
-      <div class="posts-image"
-      style="background-image:url({{ site.posts.first.postHero }})"></div>
+      <div class="posts-image"style="background-image:url({{ site.posts.first.postHero }})"></div>
       {{ site.posts.first.excerpt }}
     </div>
   </div>
